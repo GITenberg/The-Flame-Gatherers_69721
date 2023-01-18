@@ -1,0 +1,33 @@
+_repo: The-Flame-Gatherers_69721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Potter, Margaret Horton
+    aliases:
+    - Williams, Robert Dolly
+    - Black, Margaret Horton
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '25023'
+    url: http://www.gutenberg.org/2009/agents/25023
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Horton_Potter
+description: ''
+gutenberg_issued: '2023-01-06'
+identifiers:
+  gutenberg: '69721'
+language: en
+pgterms:marc904: https://archive.org/details/flamegatherers00pottiala
+pgterms:marc905: 20180604174057potter
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Charlene Taylor, Les Galloway and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: 'United States: The Macmillan Company,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Flame-Gatherers
+url: http://www.gutenberg.org/ebooks/69721
